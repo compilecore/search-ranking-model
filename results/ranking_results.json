@@ -1,0 +1,34 @@
+{
+    "BM25": {
+        "MRR@10": 0.5879,
+        "NDCG@10": 0.619
+    },
+    "Logistic Regression": {
+        "MRR@10": 0.5831,
+        "NDCG@10": 0.6125
+    },
+    "Linear SVM": {
+        "MRR@10": 0.5855,
+        "NDCG@10": 0.6091
+    },
+    "XGBoost": {
+        "MRR@10": 0.619,
+        "NDCG@10": 0.6484
+    },
+    "Random Forest": {
+        "MRR@10": 0.6523,
+        "NDCG@10": 0.6843
+    },
+    "Tuned Random Forest": {
+        "MRR@10": 0.6649,
+        "NDCG@10": 0.6954
+    },
+    "Final Test - BM25": {
+        "MRR@10": 0.6186150793650793,
+        "NDCG@10": 0.6518925893260478
+    },
+    "Final Test - Tuned Random Forest": {
+        "MRR@10": 0.6250555555555555,
+        "NDCG@10": 0.6608695148528072
+    }
+}
