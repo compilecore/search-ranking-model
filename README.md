@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Search Ranking Engine
 
 ## Overview
